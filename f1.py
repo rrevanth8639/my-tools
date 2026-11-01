@@ -1,3 +1,3 @@
-def fun():
-    print("function body")
-fun()
+def fun(a,b,c):
+    print("function body",a,b,c)
+fun(10,20,30)
